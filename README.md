@@ -1,1 +1,2 @@
-# AUTONOMO
+# AUTONOMO2-LÓGICA DE PROGRAMACIÓN
+Nombre: Ronald Andrade
